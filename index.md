@@ -2,7 +2,7 @@
 
 Team Members:
 
-*[Michael Rubsamen](Michael)
+* [Michael Rubsamen](Michael)
 * [Kalilou Ali Kadiri](Kalilou)
 * [Buddy Moench](Buddy)
 * [Jackson Burkhalter](Jackson)
