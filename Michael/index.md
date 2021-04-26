@@ -16,7 +16,8 @@ I would like to explore the following to see if there are trends:
 
 
 
-I plan to use **Plotly** as a tool to create advanced visualizations of my dataset so that users can conduct a nteractive exploration of the data easily and accessibly.
+I plan to use **Plotly** as a tool to create advanced visualizations of my dataset so that users can conduct an interactive exploration of the data easily and accessibly.
 
+For example, in 2020 the proportion of admits stratified by county can be explored below. All counts under 50 were ignored :
 
-
+{%  include_relative Visualizations/UC_Pie_2020.html  %} 
