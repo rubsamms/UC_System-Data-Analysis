@@ -9,4 +9,4 @@ their ethnicity as self-reported on their application and the year they were adm
 
 Here is an initial visualization I made:
 
-{% include_relative folder/init_fig.html %}
+{% include_relative /init_fig.html %}
