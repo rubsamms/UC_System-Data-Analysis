@@ -10,13 +10,13 @@
 
 
 Using Plotly visualizations, our groups plans to see if the what trends the UC system has in their admissions data over the past few years. Each group member will investigate a different aspect of the UC admissions. 																							
-	***Click to see more!***
+	<div align="center">***Click to see more!***
 
 Our Team Members:
 
-* [Michael Rubsamen](Michael)
-* [Kalilou Ali Kadiri](Kalilou)
-* [Buddy Moench](Buddy)
-* [Jackson Burkhalter](Jackson)
+<div align="center">* [Michael Rubsamen](Michael)
+<div align="center">* [Kalilou Ali Kadiri](Kalilou)
+<div align="center">* [Buddy Moench](Buddy)
+<div align="center">* [Jackson Burkhalter](Jackson)
 
 
