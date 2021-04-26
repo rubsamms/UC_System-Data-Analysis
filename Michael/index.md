@@ -1,3 +1,7 @@
+
+##Michael Rubsamen's Workspace
+---
+
 I grew up in California and am very familiar with the UC system and the type of influence it has on Californian applicants. I am interested in comparing in state to out of state student demographics and seeing if there are any trends between the two groups. 
 
 
