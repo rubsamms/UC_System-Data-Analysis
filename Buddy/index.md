@@ -6,3 +6,7 @@ inequality actually has on these demographics.
 
 For this I will use the Freshmen ethnicity by year datasets, which are CSV files containing rows representing each student admitted, including
 their ethnicity as self-reported on their application and the year they were admitted.
+
+Here is an initial visualization that I made exploring demog data from my local community college:
+
+{% include_relative folder/init_fig.html %}
