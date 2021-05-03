@@ -23,7 +23,7 @@ Here is rudimentary visualization of the demographic profile of transfer applica
 
 Our Team Members:
 
-* [Michael Rubsamen](Michael):  Michael is interested in exploring the correlation between acceptance rate and home county, and whether students have a harder time being accepted into their hometown UC compared to the other campuses..
+* [Michael Rubsamen](Michael) is interested in exploring the correlation between acceptance rate and home county, and whether students have a harder time being accepted into their hometown UC compared to the other campuses..
 
 * [Kalilou Ali Kadiri](Kalilou)
 * [Buddy Moench](Buddy)
