@@ -1,5 +1,5 @@
 
-##Michael Rubsamen's Workspace
+## Michael Rubsamen's Workspace
 ---
 
 I grew up in California and am very familiar with the UC system and the type of influence it has on Californian applicants. I am interested in comparing in state to out of state student demographics and seeing if there are any trends between the two groups. Additionally, I am interested in exploring the in state acceptance rates on a per campus basis to see if there is an overwhelming majority of accepted applicants who live in the same county as the campus or if it is harder for those students to gain acceptances into their home town UC.
@@ -24,11 +24,15 @@ For example, in 2020 the proportion of admits stratified by county can be explor
 {%  include_relative Visualizations/UC_Pie_2020.html  %} 
 
 
-
+---
 
 To see the initial trends in public school applicants and their outcomes, the following figure was made to compare side by side the university wide applicant outcomes based off of the applicant's county:
 
+---
+
 {%  include_relative Visualizations/UC_Public_BarOutcomes.html  %}
+
+--- 
 
 However, this figure is for all UC campuses and is not stratified by campus. The data does seem to be complete and accurate since in all cases the number of applicants > number of acceptances > number of enrolled students which would be the expected trend.
 
