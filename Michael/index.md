@@ -25,6 +25,7 @@ For example, in 2020 the proportion of admits stratified by county can be explor
 
 
 ---
+I had a hard time deciding where to get my data from and making sure that all of the entries were completely filled in with the information that I wanted to extract. To test this, I decided to make a grouped bar chart to see whether the counts were accurate or not. I imagine that the number of students who enrolled had to be less than the number of students accepted and the total number of applicants. If the trend of the graph follows this prediction, I would have a better time rationalizing that my data had enough completeness to be used for future analysis. 
 
 To see the initial trends in public school applicants and their outcomes, the following figure was made to compare side by side the university wide applicant outcomes based off of the applicant's county:
 
@@ -35,6 +36,11 @@ To see the initial trends in public school applicants and their outcomes, the fo
 --- 
 
 However, this figure is for all UC campuses and is not stratified by campus. The data does seem to be complete and accurate since in all cases the number of applicants > number of acceptances > number of enrolled students which would be the expected trend.
+
+I was also curious about the overall gender spread for the 2020 incoming first year class. The pie chart below confirms that the proportion of women who apply, are admitted, and enroll are about 19 percent greater than men. This was fascinating and I hope to use this demographic in the future to compare geographic location trends in college admissions.
+
+---
+{%  include_relative Visualizations/UC_GenderPie_2020.html  %}
 
 Coming Soon: 
 
