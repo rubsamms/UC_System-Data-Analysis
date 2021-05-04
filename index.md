@@ -13,8 +13,6 @@ Using Plotly visualizations, our group plans to see what trends the UC system ha
 
 The University of California has extensive records outlining the demographics of their first year admitted class dating back to 1994. Using this dataset, we can dive into over twenty years of collected data outlining the in state, out of state, and international admission [demographics](https://www.universityofcalifornia.edu/infocenter/admissions-source-school). The UC system addressed how COVID-19 has affected the country, and claimed to have made a more equitable system for admissions. They cite relaxing ACT/SAT requirements, and eliminating excessive extra curricular demands. Using this data set, our group will explore if the UC system has any discrepancies in recent and historical admission years. 
 
-The group intends to elucidate insight into how the trends associated with the UC system's acceptances over the past few years. Specifically, are there any correlations between test scores and acceptance? Race, gender and sexuality? Hometown county and acceptance by school? Using data visualization technique, we hope to find some answers hidden in the UC acceptance database.
-
 Here is rudimentary visualization of the demographic profile of transfer applicants to the UC from Santa Monica College:
 
 {% include_relative Buddy/init_fig.html %}
