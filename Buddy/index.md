@@ -10,3 +10,7 @@ their ethnicity as self-reported on their application and the year they were adm
 Here is an initial visualization I made:
 
 {% include_relative /init_fig.html %}
+
+[History of admissions article on Frontline](https://www.pbs.org/wgbh/pages/frontline/shows/sats/etc/ucb.html)
+
+[Policy document from the UC website](https://admission.universityofcalifornia.edu/counselors/files/quick-reference.pdf)
