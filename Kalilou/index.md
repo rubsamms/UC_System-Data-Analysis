@@ -1,1 +1,2 @@
-Kalilou's Workspace
+##Kalilou's Workspace
+I did not know much about the university ranking system in the United States, all I knew was that there were schools that would generally admit more international students than others. I think from the perspective of an international student, chosing a school involves looking for the ones that they are most likely to get admitted to. In this assignment, I am going to look at the acceptance rate for international students and how well they perform during their first year in college. I will be u
