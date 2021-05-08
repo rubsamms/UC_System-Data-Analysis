@@ -45,12 +45,29 @@ Before I continue, I feel I should bring up an issue I found and referenced befo
 {% include_relative Visualizations/AmericanIndianStudentsPublic.html %}
 
 
-{% include_relative Visualizations/AmericanIndianStudentsPublic.html %}
+{% include_relative Visualizations/AmericanIndianStudentsPrivate.html %}
 
 
+In terms of the African American student population, while there is an inconsistency in 2007, and for the rest of the data, it seems pretty complete. Anyway, for the other ethnicities we see general trends. For this, I think looking at the public data gives a little bit more insight to how ethnicity plays into admittance. To start I'd like to look at the African American student numbers.
 
 
+{% include_relative Visualizations/AfricanAmericanStudentsPublic.html %}
 
+To start off, we should talk about the admission rate as a percentage so we can get an accurate representation of these graphs in context with each other. So in 2007 the admittance rate of African American students from public schools was 17.3 percent in 2020 it decreased to 7 percent and more importantly the number of admitted students did not change by much (-20 students difference). So what we see is that the number of African American students applying to UCs has increased by more than double but UCs have not increased their admittance rate to compensate. But in order to see how problematic this is, we must look at the other data as well.
+
+{% include_relative Visualizations/AsianStudentsPublic.html %}
+
+In 2007, the admittance rate for Asian students was 91.7 percent and in 2020 it decreased to 80.5 percent. However compared to the African American students change of -20 students admitted, the Asian student change was of 5049 students. So the UCs admitted 5049 more students than in 2007. I find this problematic, why were no more African American students admitted into the UC program. While this graph alone is pretty good in the fact that since more students had applied more were admitted, when its in context with the African American students I see it as being more problematic as we should see more African Americans being admitted.
+
+{% include_relative Visualizations/HispanicLatinoStudentsPublic.html %}
+
+As we move on, I'd like to say once again that this is not a bad trend when you look at it alone. As more Latino and Hispanic Students applied to UCs more were admitted. In 2007 we see 83.3 percent admittance rate and in 2020 a 65.8 percent admittance rate with a difference of 15000 students admitted. But I feel that once again we should've seen an uptick in African American admittance as the years went on.
+
+% include_relative Visualizations/HispanicLatinoStudentsPublic.html %}
+
+Anyway, the final visualization I have is what I would call not a great trend. In 2007 white student admittance was 91.8 percent and in 2020 was 71.4 percent with a student difference -5100 students, but while the other graphs had an general increase in applicants, this graph see no general change in applicants. I would like to be clear that I do not think this graph is as damning as the African American students because while there is a larger decrease in students with the white students, at least there are around 40 times the amount of students as African American students in UCs.
+
+In conclusion, working on diversifying the UCs would be good, while it is difficult to increase applicants to UCs working on making the admittance rate percentages around the same number would be good to go towards.
 
 
 For my reader, if you would like to you can check my work, you can. While the UC admissions data is a pain to work with because the data comes in multiple files and is encoded in utf-16le, I have consolidated all the data I used from the UC admissions data into one data frame:
@@ -64,3 +81,7 @@ Also, here is a link to download all the code I used:
 As well as a folder of all the data frames I used:
 
 [UC Admissions Data Files](https://drive.google.com/file/d/1khTUOeadGzKHnIAH9RYK9qq-trh-6jU6/view?usp=sharing)
+
+And a folder of a the data visualizations I made in HTML format:
+
+[Data Visualizations](https://drive.google.com/file/d/1DdoVO8G2ec8y2IQxbcByM-TQ6QqoBcTi/view?usp=sharing)
