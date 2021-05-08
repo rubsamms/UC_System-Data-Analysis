@@ -25,6 +25,6 @@ Our Team Members:
 
 * [Kalilou Ali Kadiri](Kalilou)
 * [Buddy Moench](Buddy) is interested in exploring trends in admittance demographic profiles and their relationship to official UC admittance policy. Using various online resources, including an expert witness testimonial by UC admissions consultant John Aubrey Douglass, the efficacy of policy changes will hopefully be clarified.
-* [Jackson Burkhalter](Jackson)
+* [Jackson Burkhalter](Jackson) is interesting in comparing how trends in admissions by demographic between private schools and public schools differ between 2007 and 2020.
 
 

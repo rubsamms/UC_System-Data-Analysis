@@ -40,7 +40,7 @@ In conclusion for this section, in general we see that UCs are trying to equaliz
 
 ## A Closer Look into Each Ethnicity Admission Rates
 
-Before I continue, I feel I should bring up an issue I found and referenced beforehand. When looking at the American Indian UC data it is vastly incomplete. Values seem to be missing both in public and prove schools.
+Before I continue, I feel I should bring up an issue I found and referenced beforehand. When looking at the American Indian UC data it is vastly incomplete. Values seem to be missing both in public and prove schools. It is in general pretty inconsistent and makes me wonder why this occurred and why specifically it occurred most when documenting American Indian students. While there is very minimal inconsistencies in other parts of the data, none are as glaring as these.
 
 {% include_relative Visualizations/AmericanIndianStudentsPublic.html %}
 
@@ -60,3 +60,7 @@ For my reader, if you would like to you can check my work, you can. While the UC
 Also, here is a link to download all the code I used:
 
 [UC Admissions Python File](https://drive.google.com/file/d/1E6izir4fjy9AapawBEvNEvForzPyTJct/view?usp=sharing)
+
+As well as a folder of all the data frames I used:
+
+[UC Admissions Data Files](https://drive.google.com/file/d/1khTUOeadGzKHnIAH9RYK9qq-trh-6jU6/view?usp=sharing)
