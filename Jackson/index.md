@@ -63,7 +63,7 @@ In 2007, the admittance rate for Asian students was 91.7 percent and in 2020 it 
 
 As we move on, I'd like to say once again that this is not a bad trend when you look at it alone. As more Latino and Hispanic Students applied to UCs more were admitted. In 2007 we see 83.3 percent admittance rate and in 2020 a 65.8 percent admittance rate with a difference of 15000 students admitted. But I feel that once again we should've seen an uptick in African American admittance as the years went on.
 
-% include_relative Visualizations/HispanicLatinoStudentsPublic.html %}
+{% include_relative Visualizations/HispanicLatinoStudentsPublic.html %}
 
 Anyway, the final visualization I have is what I would call not a great trend. In 2007 white student admittance was 91.8 percent and in 2020 was 71.4 percent with a student difference -5100 students, but while the other graphs had an general increase in applicants, this graph see no general change in applicants. I would like to be clear that I do not think this graph is as damning as the African American students because while there is a larger decrease in students with the white students, at least there are around 40 times the amount of students as African American students in UCs.
 
