@@ -21,7 +21,7 @@ I plan to use **Plotly** as a tool to create advanced visualizations of my datas
 
 For example, in 2020 the proportion of admits stratified by county can be explored below. All counts under 50 were ignored :
 
-{%  include_relative Visualizations/UC_Pie_2020.html  %} 
+{%  include_relative Visualizations/UC_Pie_2020.html% } 
 
 
 ---
@@ -72,7 +72,7 @@ Davis:
 
 UCSB:
 
-%  UC_SB_Bar_Proportion.html %}
+{%  UC_SB_Bar_Proportion.html %}
 
 UCSD:
 
