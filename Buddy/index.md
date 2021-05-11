@@ -15,12 +15,19 @@ This data was very hard to work with. It was organized in a strange way, with a 
 
 The datasets were downloadable from the UC page as .csv files, which were oddly enough encoded in UTF-16 LE. That was hard to figure out. Then the delimiter character was '\t', which was also a curveball. I think I've been spoiled with highly standardized data. After that, there were more n/A values than I was used to - I wasn't sure how to prune the rows to provide the fullest profile while also keeping the mathematical utility of the table.
 
+My original research question (the degree of diversity shift which occurred in 1998 as a result of the ban on affirmative action) cannot be answered by the data as it is provided. In the only dataset which included time of recording, records began at the year 1998, which means I had no control group to compare to the pool of applicants admitted after the affirmative action ban. Instead, I will compare the diversity of the admitted applicants of the years 1998 (which would be perhaps the least diverse in the entire dataset, I will check this) and 2020, when the UC relaxed several application requirements incl. the SAT.
+
+
+We can see from my partner Jackson's work that the overall number of white admitted students to the UC decreased between 2007 and 2020, as the overall number of admitted latino, asian, and african american students increased. However there are some strange patterns of behavior in indian (native) students, with higher admittance rates in the earlier part of the recording period.
+
 some simple visualizations or stats that provide simple insights into the integrity of the data,
 i.e. Convince the reader that this data is what it purports to be and identify possible problems with the data.
 Often this involves looking at each column and doing univariate descriptions and visualizations like box plots, histograms etc
 
 Here are a few basic visualizations of the amount of students of a certain ethnicity admitted to the University:
-{% include_relative /init_fig.html %}
+{% include_relative /simple2.html %}
+
+{% include_relative /simple.html %}
 
 
 Above and beyond: plotly heatmap?
