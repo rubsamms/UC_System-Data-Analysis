@@ -113,18 +113,7 @@ All three groups have alarmingly similar data. Also notice how Los Angeles is a 
 
 Looking even deeper at the bar graphs, we can see just how similar the spreads are between the groups:
 
-In State:
 
-{%include_relative Visualizations/UC_cabox_GPA.html %}
-
-
-Out of State:
-
-{%include_relative Visualizations/UC_OOSbox_GPA.html %}
-
-International:
-
-{%include_relative Visualizations/UC_foreignbox_GPA.html %}
 
 
 
