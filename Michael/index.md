@@ -102,9 +102,7 @@ In State:
 
 {%include_relative Visualizations/UC_Public_GPA.html %}
 
-Out of State:
 
-{%include_relative Visualizations/ UC_OOS_GPA.html %}
 
 
 
