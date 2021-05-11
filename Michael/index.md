@@ -23,7 +23,7 @@ For example, in 2020 the proportion of admits stratified by county can be explor
 
 
 
-
+{% include_relative Visualizations/UC_Pie_2020.html% } 
 
 
 ---
