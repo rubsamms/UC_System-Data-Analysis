@@ -46,7 +46,6 @@ I was also curious about the overall gender spread for the 2020 incoming first y
 
 Looking at the proportion of admits by county, we can clearly see that southern California schools dominate the admissions market.
 
-{%  UC_Public_Bar_Proportion.html %}
 
 A couple key takeaways:
 
