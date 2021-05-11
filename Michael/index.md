@@ -64,5 +64,13 @@ The question remains, do UC campuses preferentially accept applicants from geogr
 
 Clearly, East bay counties represent a large majority of enrolled students despite their contribution of applicants. LA is still the largest shareholder of admitted students. Interestingly enough, LA, Orange, and San Bernardino counties have a higher proportion of applicants than enrolled students. So far, I am inclined to believe that UC Berkeley does preferentially select for nearby county applicants.
 
+Lets take a look at UCLA: 
+
+{%include_relative Visualizations/UC_Berk_Bar_Proportion.html %}
+
+This visualization has a much different outcome. First, we can see that LA county provides the largest proportion of enrolled students, but the results for the other SOCAL counties is pretty similar to UC Berkeley. However, It does look like the proportion of in state enrolled students is lower than compared to Berkeley.
+
+Looking at some Other schools, we have...
+
 
 
