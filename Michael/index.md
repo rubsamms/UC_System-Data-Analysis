@@ -92,6 +92,12 @@ It looks like for the more remote schools like Merced and Davis, a large majorit
 When looking at the total proportion of students accepted into the UC system from out of state schools, Its clear that the majority of applications come from Texas and Washington. However, It looks like Oregon, Virginia, and New Jersey have the highest proportion of enrolled students relative to their application footprint. 
 
 
+{%include_relative Visualizations/UC_OOS_Bar_Proportion.html %}
 
+Looking at this, I decided to see the admissions GPA statistics for in state and out of state acceptances. As it turns out, they're very similar. Lets take a look...
+
+
+Taking the original data and grouping by state and county, we can see average all of the GPAs for each high school per state/county and view the average GPA acceptances for each group.
+In State:
 
 
