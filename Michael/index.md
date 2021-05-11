@@ -33,7 +33,7 @@ To see the initial trends in public school applicants and their outcomes, the fo
 
 ---
 
-{%  include_relative Visualizations/UC_Public_BarOutcomes.html  %}
+{% include_relative Visualizations/UC_Public_BarOutcomes.html  %}
 
 ---
 
