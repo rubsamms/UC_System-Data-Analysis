@@ -100,4 +100,13 @@ Looking at this, I decided to see the admissions GPA statistics for in state and
 Taking the original data and grouping by state and county, we can see average all of the GPAs for each high school per state/county and view the average GPA acceptances for each group.
 In State:
 
+{%include_relative Visualizations/UC_Public_GPA.html %}
+
+Out of State:
+
+{%include_relative Visualizations/ UC_OOS_GPA.html %}
+
+International:
+
+{%include_relative Visualizations/UC_foreign_GPA.html %}
 
