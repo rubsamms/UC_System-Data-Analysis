@@ -128,4 +128,6 @@ International:
 {%include_relative Visualizations/UC_foreignbox_GPA.html %}
 
 
+All files and Jupyter Notebook can be found here in the [UC_Project](UC_Project)
 
+All Visualizations can be found in the [Visualizations](Visualizations) folder as well
