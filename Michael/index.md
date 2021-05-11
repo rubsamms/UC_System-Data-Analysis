@@ -65,7 +65,7 @@ Clearly, East bay counties represent a large majority of enrolled students despi
 
 Lets take a look at UCLA: 
 
-{%include_relative Visualizations/UC_Berk_Bar_Proportion.html %}
+{%include_relative Visualizations/UC_LA_Bar_Proportion.html %}
 
 This visualization has a much different outcome. First, we can see that LA county provides the largest proportion of enrolled students, but the results for the other SOCAL counties is pretty similar to UC Berkeley. However, It does look like the proportion of in state enrolled students is lower than compared to Berkeley.
 
