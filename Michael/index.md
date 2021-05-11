@@ -40,7 +40,7 @@ However, this figure is for all UC campuses and is not stratified by campus. The
 I was also curious about the overall gender spread for the 2020 incoming first year class. The pie chart below confirms that the proportion of women who apply, are admitted, and enroll are about 19 percent greater than men. This was fascinating and I hope to use this demographic in the future to compare geographic location trends in college admissions.
 
 ---
-{%  include_relative Visualizations/UC_GenderPie_2020.html  %}
+
 
 
 
