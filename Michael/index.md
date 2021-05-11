@@ -42,11 +42,13 @@ I was also curious about the overall gender spread for the 2020 incoming first y
 ---
 {%  include_relative Visualizations/UC_GenderPie_2020.html  %}
 
+
 ### In State Admissions by Campus 
 
 Looking at the proportion of admits by county, we can clearly see that southern California schools dominate the admissions market.
 
 {%  include_relative Visualizations/UC_Public_Bar_Proportion.html  %}
+
 A couple key takeaways:
 
 1. San Francisco, Contra Costa, Alameda, San Joaquin, Sacramento, Riverside, and San Diego counties have the highest proportion of enrolled students comparatively to their proportion of applicants.
@@ -107,6 +109,19 @@ International:
 All three groups have alarmingly similar data. Also notice how Los Angeles is a category for the out of state section, which is a mistake and obviously strange. However, if you take a closer look at the in state GPAs, it can be found that LA has the lowest average gpa Very interesting....
 
 Looking even deeper at the bar graphs, we can see just how similar the spreads are between the groups:
+
+In State:
+
+{%include_relative Visualizations/UC_cabox_GPA.html %}
+
+
+Out of State:
+
+{%include_relative Visualizations/UC_OOSbox_GPA.html %}
+
+International:
+
+{%include_relative Visualizations/UC_foreignbox_GPA.html %}
 
 
 
