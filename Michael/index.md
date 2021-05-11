@@ -128,6 +128,4 @@ International:
 {%include_relative Visualizations/UC_foreignbox_GPA.html %}
 
 
-All files and Jupyter Notebook can be found here in the [UC_Project]({%UC_Project%})
-
-All Visualizations can be found in the [Visualizations]({% include_relative Visualizations %})
+All files,Jupyter Notebook, and Visualizations can be found on the [github main branch](https://github.com/rubsamms/UC_System-Data-Analysis)
