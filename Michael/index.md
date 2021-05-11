@@ -103,10 +103,22 @@ In State:
 {%include_relative Visualizations/UC_Public_GPA.html %}
 
 
+All three groups have alarmingly similar data. Also notice how Los Angeles is a category for the out of state section, which is a mistake and obviously strange. However, if you take a closer look at the in state GPAs, it can be found that LA has the lowest average gpa Very interesting....
+
+Looking even deeper at the bar graphs, we can see just how similar the spreads are between the groups:
+
+In State:
+
+{%include_relative Visualizations/UC_cabox_GPA.html %}
+
+
 Out of State:
 
-{%include_relative Visualizations/ UC_OOS_GPA.html %}
+{%include_relative Visualizations/UC_OOSbox_GPA.html %}
 
+International:
+
+{%include_relative Visualizations/UC_foreignbox_GPA.html %}
 
 
 
