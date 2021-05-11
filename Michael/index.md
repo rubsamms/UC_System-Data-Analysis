@@ -72,5 +72,19 @@ This visualization has a much different outcome. First, we can see that LA count
 
 Looking at some Other schools, we have...
 
+Davis:
+{%include_relative Visualizations/UC_Davis_Bar_Proportion.html %}
+
+UCSB:
+
+{% include_relative Visualizations/UC_SB_Bar_Proportion.html %}
+
+UCSD:
+
+{%include_relative Visualizations/UC_SD_Bar_Proportion.html %}
+
+UC Merced:
+
+{%include_relative Visualizations/UC_Merced_Bar_Proportion.html %}
 
 
