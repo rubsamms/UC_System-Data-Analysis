@@ -106,7 +106,5 @@ Out of State:
 
 {%include_relative Visualizations/ UC_OOS_GPA.html %}
 
-International:
 
-{%include_relative Visualizations/UC_foreign_GPA.html %}
 
