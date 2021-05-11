@@ -10,7 +10,7 @@ I would like to explore the following to see if there are trends:
 
 
 
-1. Instate acceptance rates in 2020\
+1. Instate acceptance rates in 2020
 2. Compare these to previous years and investigate the relationship between test scores and the [California Resident Guarantee](https://admission.universityofcalifornia.edu/admission-requirements/freshman-requirements/california-residents/)
 3. Gpa trends across UC campus admissions
 
