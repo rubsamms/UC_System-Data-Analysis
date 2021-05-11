@@ -128,6 +128,6 @@ International:
 {%include_relative Visualizations/UC_foreignbox_GPA.html %}
 
 
-All files and Jupyter Notebook can be found here in the [UC_Project](/Users/MichaelRubsamen/Documents/UC_System-Data-Analysis/Michael/UC_Project)
+All files and Jupyter Notebook can be found here in the [UC_Project]({%UC_Project%})
 
-All Visualizations can be found in the [Visualizations](/Users/MichaelRubsamen/Documents/UC_System-Data-Analysis/Michael/UC_Project) folder as well
+All Visualizations can be found in the [Visualizations]({% include_relative Visualizations %})
