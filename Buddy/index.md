@@ -29,13 +29,12 @@ Here are a few basic visualizations of the amount of students of a certain ethni
 
 {% include_relative /simple.html %}
 
-I 
-
-
-
 {% include_relative /prettyFig.html %}
 
+We can see from the figure below that the UC admitted students population of 1998 was not the least diverse on record. In fact, and this is striking, there seems to be no significant difference in diversity between the admitted class of 1998 and 1994. This flies in the face of the claim referenced above that 
 
 {% include_relative /normedData.html %}
+
+In
 
 Above and beyond: plotly heatmap?
