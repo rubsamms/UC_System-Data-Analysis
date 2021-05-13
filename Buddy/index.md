@@ -39,3 +39,7 @@ We can see from the figure below that the UC admitted students population of 199
 We cannot conclude that the 1998 affirmative action ban did not have an effect on the admitted demographics at Berekeley, but to determine its effect would require further investigation.
 
 However, we can tell that the UC has achieved overall parity of admissions among Hispanic, Asian and white demographics. This means Asian students are overrepresented relative to the general population, which could be due to a number of factors. However, the UC has yet to achieve representative levels of enrollment among black students. Further investigation would be necessary to determine the causes of the overrepresentationo of Asian students and to understand the policy of the UC in recruiting more black students.
+
+[Here](https://drive.google.com/file/d/1hXziEAmwvCsGpziXKFNd0xiXvnxN-Hp3/view?usp=sharing) is a link to the Jupyter Notebook I used to create these visualizations.
+
+To obtain these datasets, [follow this link](https://www.universityofcalifornia.edu/infocenter/admissions-source-school). Download the dataset (in crosstab format) called "HS by Year_crosstab.csv". This can be wrangled with my notebook to reproduce my results.
