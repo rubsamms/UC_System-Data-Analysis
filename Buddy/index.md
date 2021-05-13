@@ -25,16 +25,15 @@ i.e. Convince the reader that this data is what it purports to be and identify p
 Often this involves looking at each column and doing univariate descriptions and visualizations like box plots, histograms etc
 
 Here are a few basic visualizations of the amount of students of a certain ethnicity admitted to the University:
+
 {% include_relative /simple2.html %}
 
 {% include_relative /simple.html %}
 
 {% include_relative /prettyFig.html %}
 
-We can see from the figure below that the UC admitted students population of 1998 was not the least diverse on record. In fact, and this is striking, there seems to be no significant difference in diversity between the admitted class of 1998 and 1994. This flies in the face of the claim referenced above that 
+We can see from the figure below that the UC admitted students population of 1998 was not the least diverse on record. In fact, and this is striking, there seems to be no significant difference in diversity between the admitted class of 1998 and 1994. This seems to contradict the claim referenced above (PBS) that the hispanic and African American admitted student populations decreased by around 50% each in '98. However, that claim was in reference to the Berkeley campus alone; it seems unlikely but is still possible that this claim is true. Further investigation would be necessary to fully determine the veracity of this claim.
 
 {% include_relative /normedData.html %}
-
-In
 
 Above and beyond: plotly heatmap?
