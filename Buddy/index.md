@@ -29,5 +29,13 @@ Here are a few basic visualizations of the amount of students of a certain ethni
 
 {% include_relative /simple.html %}
 
+I 
+
+
+
+{% include_relative /prettyFig.html %}
+
+
+{% include_relative /normedData.html %}
 
 Above and beyond: plotly heatmap?
