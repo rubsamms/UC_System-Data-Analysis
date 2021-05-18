@@ -6,6 +6,6 @@ For this, I will be using the FR ENR_crosstab.csv file that contains data about 
 
 I already plotted a pie chart of the total number of admissions vs the number of denials. This pie chart was plotted using data from the 2020 year.
 
-{% test.html %}
+{%include_relative test.html %}
 
 In the plot above, we can see that UC institutions cumulatively admit about 67% of applicants from international institutions.
